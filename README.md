@@ -28,7 +28,7 @@ BMI Calculator is a simple and intuitive iOS application designed to calculate B
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/chrohittrar/BMI-Calculator.git
    ```
 
 2. Open the project in Xcode.
@@ -44,4 +44,4 @@ BMI Calculator is developed using Swift, adhering to the Model-View-Controller (
 
 BMI Calculator aims to promote health awareness and provide users with a tool for assessing their BMI. Special thanks to health professionals and organizations providing guidelines on BMI interpretation.
 
-Feel free to explore and enhance BMI Calculator to meet specific needs or integrate additional features. If you encounter any issues or have suggestions, please create an [issue](https://github.com/chrohittrar/bmi-calculator-app/issues).
+Feel free to explore and enhance BMI Calculator to meet specific needs or integrate additional features. If you encounter any issues or have suggestions, please create an [issue](https://github.com/chrohittrar/BMI-Calculator/issues).
